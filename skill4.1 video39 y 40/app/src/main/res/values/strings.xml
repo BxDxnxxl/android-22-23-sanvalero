@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">PruebasDesdeCero</string>
+
+    <string name="titulo">Bienvenido al ejemplo</string>
+
+    <string name="text_btn_ingreesar">ingresar nombre</string>
+
+    <string name="tewxt_msj_bienvenido">hola bienvenido</string>
+
+
+</resources>
